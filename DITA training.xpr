@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="21.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="\QDITA%20training.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="DITA%20training.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>
