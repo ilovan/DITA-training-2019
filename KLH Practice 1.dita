@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zdd_pbl_qjb">
+    <title>Send a text message</title>
+    <shortdesc>Instructions for sending a multimedia or text message on iPhone 7.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_pmt_pdl_qjb">
+            <ol id="ol_d4v_pdl_qjb">
+                <li>Ensure that your phone is turned on.</li>
+                <li>Ensure that your phone is connected to a network.</li>
+            </ol>
+        </prereq>
+        <context>
+            <p>Text messages are a vital and exciting form of communication in the twenty-first century. Congratulations!</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Begin at your home screen.</cmd>
+            </step>
+            <step>
+                <cmd>Select the <uicontrol>message</uicontrol> icon (a dialogue bubble)<image href="Media/6170-iphone_os1.jpg" scale="20" id="image_ozw_ygl_qjb"></image></cmd>
+            </step>
+            <step>
+                <cmd>Select the recipient from the Contacts list.</cmd>
+            </step>
+            <step>
+                <cmd>Write your message.</cmd>
+                <substeps id="substeps_mqt_fhl_qjb">
+                    <substep>
+                        <cmd>Begin with a salutation.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Continue by writing the body.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Conclude the message.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Hit <uicontrol>submit</uicontrol>.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
