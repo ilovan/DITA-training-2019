@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_c3j_pbl_qjb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Send a message on my phone.</title>
+    <shortdesc>Send text msg on iPhone. </shortdesc>
+    <taskbody>
+        <prereq id="prereq_q5c_pdl_qjb">
+            <ul id="ul_ipv_sdl_qjb">
+                <li>Make sure your phone is connected to network.</li>
+                <li>Make sure the phone is yours.</li>
+                <li>Make sure the phone is turned on and the battery is sufficiently charged.</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>If you want to be popular and anxious, do the following.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to your home screen.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd/>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click on the <uicontrol>message</uicontrol> icon.<image
+                        href="../Documents/GitHub/DITA-training-2019/Media/iconfinder_call_322424.png"
+                        scale="5" id="image_amd_4gl_qjb"/></cmd>
+            </step>
+            <step>
+                <cmd><image id="image_bqp_1fl_qjb"/>Click on the composition icon.</cmd>
+            </step>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>
