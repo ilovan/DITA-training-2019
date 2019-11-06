@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nbq_4bl_qjb"> 
+    <title>Send a message on my phone</title>
+    <shortdesc>How to send a multimedia or text message on Android 8.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_u2v_xcl_qjb">
+            <ol id="ol_alc_1dl_qjb">
+                <li>Make sure your phone is <b>connected</b> to the network</li>
+                <li>Gather some inspiration</li>
+                <li>Make sure you have the right settings enabled</li>
+            </ol>
+        </prereq>
+        <context>
+            <p>Phone message are getting out of fashin, but if you really want to send one, do the
+                following:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to your Home screen</cmd>
+            </step>
+            <step>
+                <cmd>Click on the <uicontrol>message</uicontrol> icon</cmd>
+                <info>
+                    <fig id="fig_l1j_4fl_qjb">
+                        <title>&quot;Message&quot; icon</title>
+                        <image href="Media/iconfinder_call_322424.png" scale="25"
+                            id="image_m1j_4fl_qjb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Setct your recepient</cmd>
+            </step>
+            <step>
+                <cmd>Write your message</cmd>
+                <substeps id="substeps_cyq_2hl_qjb">
+                    <substep>
+                        <cmd>Write an opening</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Write the body</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Write the end</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Hit<uicontrol> Submit</uicontrol></cmd>
+                <stepresult>Your message should show up as a buble on the screen</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

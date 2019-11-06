@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zm4_1cl_qjb">
+    <title>How To</title>
+    <shortdesc>Send Text Messages</shortdesc>
+    <taskbody>
+        <prereq id="prereq_r5m_ydl_qjb">
+            <ul id="ul_ykx_zdl_qjb">
+                <li>turn on phone</li>
+            </ul>
+        </prereq>
+        <context>If you want to send one, here's how.<p>First you do this, then you do that.</p></context>
+        <steps>
+            <step>
+                <cmd>this</cmd>
+                <substeps id="substeps_tvr_fhl_qjb">
+                    <substep>
+                        <cmd>opening</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>that</cmd>
+            </step>
+            <step>
+                <cmd><image id="image_m2d_2fl_qjb"></image></cmd>
+                <stepresult></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>
