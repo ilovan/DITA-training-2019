@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hcv_4bl_qjb">
+    <title>Send a message</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq id="prereq_hfb_jdl_qjb">
+            <ol id="ol_upp_q2l_qjb">
+                <li>Make sure your phone is connected to the network.</li>
+                <li>Make sure your phone is turned on.</li>
+            </ol>
+        </prereq>
+        <context>
+            <p>Phone messages are getting out of fashion but if you really want to send one.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to your homescreen.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the <uicontrol>message</uicontrol> icon.</cmd>
+                <info>
+                    <fig id="fig_xvy_lfl_qjb">
+                        <title>&quot;Message Icon&quot;</title>
+                        <image href="Media/iconfinder_call_322424.png" id="image_yvy_lfl_qjb"
+                            scale="5"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Write your message</cmd>
+                <substeps id="substeps_crh_3hl_qjb">
+                    <substep>
+                        <cmd>Write the beginning</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
