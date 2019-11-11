@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_aqv_kpv_rjb">
+    <title>My Experiment</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+            <table frame="all" rowsep="1" colsep="1" id="table_pr4_qpv_rjb">
+                <title>DITA Data</title>
+                <tgroup cols="5">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1*"/>
+                    <colspec colname="c4" colnum="4" colwidth="1*"/>
+                    <colspec colname="c5" colnum="5" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Situation</entry>
+                            <entry>Tag</entry>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </context>
+    </taskbody>
+</task>
